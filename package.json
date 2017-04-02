@@ -1,0 +1,26 @@
+{
+  "name": "real-time-web",
+  "version": "1.0.0",
+  "description": "Real-Time Web with Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuzub/real-time-web.git"
+  },
+  "keywords": [
+    "real-time",
+    "node"
+  ],
+  "author": "Learning",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuzub/real-time-web/issues"
+  },
+  "homepage": "https://github.com/yuzub/real-time-web#readme",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
